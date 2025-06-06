@@ -1,8 +1,6 @@
 
-
 ## 🛠️ `README.md` do Back-End (Express + MongoDB)
 
-```markdown
 # 🛠️ Book App - Backend
 
 Este é o backend do Book App, desenvolvido em **Node.js com Express** e conectado ao **MongoDB Atlas**. Ele oferece uma API REST para cadastrar livros com foto e localização.
